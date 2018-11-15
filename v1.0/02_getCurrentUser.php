@@ -6,7 +6,7 @@
  * Date: 8/10/2018
  * Time: 1:42 PM
  */
-include_once '_apiKeyConfig.php';
+include_once '_config.php';
 set_time_limit(0);
 
 use Httpful\Request;
